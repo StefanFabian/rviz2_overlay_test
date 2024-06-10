@@ -1,0 +1,9 @@
+<library path="overlay_test">
+    <class name="overlay_test/OverlayTestDisplay"
+           type="overlay_test::OverlayTestDisplay"
+           base_class_type="rviz_common::Display">
+        <description>
+            A simple example showing how to render on top of rviz.
+        </description>
+    </class>
+</library>
